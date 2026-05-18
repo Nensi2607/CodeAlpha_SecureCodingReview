@@ -22,3 +22,19 @@ Secure coding helps protect:
 
 ## Key Learning
 Even small coding mistakes can create major security risks.
+
+# Day 2 - Vulnerable Login System
+
+## Project Created
+Created a basic Python login system intentionally containing security vulnerabilities for security review purposes.
+
+## Vulnerabilities Identified
+- Hardcoded username and password
+- Plaintext password storage
+- Weak authentication logic
+
+## Security Risks
+If attackers access source code, they can easily see credentials and compromise the system.
+
+## Key Learning
+Authentication systems should never store sensitive information directly in source code.
