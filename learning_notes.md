@@ -38,3 +38,23 @@ If attackers access source code, they can easily see credentials and compromise 
 
 ## Key Learning
 Authentication systems should never store sensitive information directly in source code.
+
+
+# Day 3 - Security Review and Vulnerability Analysis
+
+## Work Completed
+Performed a security review of the vulnerable login system.
+
+## Vulnerabilities Identified
+- Hardcoded credentials
+- Plaintext password storage
+- Weak authentication design
+
+## Concepts Learned
+- Security auditing
+- Risk assessment
+- Vulnerability documentation
+- Remediation recommendations
+
+## Key Learning
+Proper documentation and remediation suggestions are important parts of secure coding reviews.
