@@ -68,3 +68,21 @@ The application contains multiple critical security weaknesses and should not be
 # 🎯 Key Learning
 
 Small insecure coding practices can lead to major cybersecurity risks.
+
+
+# 🔒 Secure Remediation Implemented
+
+## Improvements Added
+- Password hashing using SHA-256
+- Improved password verification
+- Better authentication handling
+
+## Security Benefits
+- Passwords are no longer stored directly in plaintext
+- Reduced risk of credential exposure
+- Improved secure coding practices
+
+## Secure Coding Practices Used
+- Hashing sensitive data
+- Avoiding plaintext password comparison
+- Safer authentication workflow

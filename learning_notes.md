@@ -58,3 +58,22 @@ Performed a security review of the vulnerable login system.
 
 ## Key Learning
 Proper documentation and remediation suggestions are important parts of secure coding reviews.
+
+
+# Day 4 - Secure Version Development
+
+## Work Completed
+Created a more secure version of the vulnerable login system.
+
+## Security Improvements
+- Password hashing using SHA-256
+- Better password verification
+- Improved authentication process
+
+## Concepts Learned
+- Cryptographic hashing
+- Secure password storage
+- Authentication security
+
+## Key Learning
+Hashing helps protect passwords from direct exposure even if attackers access stored data.
