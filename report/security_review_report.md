@@ -86,3 +86,20 @@ Small insecure coding practices can lead to major cybersecurity risks.
 - Hashing sensitive data
 - Avoiding plaintext password comparison
 - Safer authentication workflow
+
+# ⚖️ Vulnerable vs Secure Version Comparison
+
+| Feature | Vulnerable Version | Secure Version |
+|---------|--------------------|----------------|
+| Password Storage | Plaintext | SHA-256 Hashing |
+| Hardcoded Credentials | Present | Reduced Risk |
+| Authentication Security | Weak | Improved |
+| Secure Coding Practices | Poor | Better Implemented |
+
+---
+
+# ✅ Final Conclusion
+
+The secure version significantly improves authentication security by implementing password hashing and better authentication practices.
+
+This project demonstrates the importance of secure coding and vulnerability remediation in software development.
